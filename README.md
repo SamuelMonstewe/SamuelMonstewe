@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Samuel! 
 
 - 🌱 Atualmente estudando linguagens como C++ e C#
-- 📕 Atualmente no terceiro ano do ensino médio cursando Técnico em 
+- 📕 Atualmente no terceiro ano do ensino médio cursando Técnico em Informática 
 
 <picture>
 <source 
