@@ -5,10 +5,10 @@
   <p>🌱 Atualmente estudando linguagens como C++ e C#</p>
   <p>📕 Atualmente no terceiro ano do ensino médio cursando Técnico em Informática</p>
 </div>
-<!-- <div align="center">
+<div align="center">
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=SamuelMonstewe&show_icons=true&theme=monokai"
+  srcset="https://github-readme-stats.vercel.app/api?username=SamuelMonstewe&show_icons=true&theme=synthwave"
   media="(prefers-color-scheme: dark)"
 />
 <source
@@ -17,7 +17,7 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=SamuelMonstewe&show_icons=true"/>
 </picture>
-</div> -->
+</div>
 <div style="display: inline_block" align="center"><br>
 <img align="center" alt="Samuel-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" alt="Samuel-C++" height="40" width="" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
