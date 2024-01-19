@@ -1,9 +1,7 @@
 <div align="center">
-<h1> Olá! Meu nome é Samuel!</h1>
+<h1> Olá! Meu nome é Samuel! Bem vindo :)</h1>
 </div>
 <div align="center">
-  <p>🌱 Atualmente estudando linguagens como C++ e C#</p>
-  <p>📕 Atualmente no terceiro ano do ensino médio cursando Técnico em Informática</p>
 </div>
 <div align="center">
 <picture>
