@@ -33,6 +33,8 @@
 <img align="center" alt="Samuel-UBUNTU" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original-wordmark.svg" />
 <img align="center" alt="Samuel-VSCODE"  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
+<img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
 <img align="center" alt="Samuel-VSTUDIO" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />  
 </div><br>
 
