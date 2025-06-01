@@ -19,7 +19,8 @@
 <div style="display: inline_block" align="center"><br>
 <img align="center" alt="Samuel-Csharp" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="center" alt="Samuel-JS" height="40"  width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />          
+<img align="center" alt="Samuel-JS" height="40"  width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  
+<img align="center" height="40"  width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" />
 <img align="center" alt="Samuel-HTML"  height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Samuel-CSS"  height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Samuel-GIT"  height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
